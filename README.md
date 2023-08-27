@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Purvesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Purvesh--01629954/)](https://www.linkedin.com/in/Purvesh--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Purvesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/purvesh-kakaiya-055688287)](https://www.linkedin.com/in/purvesh-kakaiya-055688287)
 [![Website Badge](https://img.shields.io/badge/WebSite-Purvesh-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Purvesh-yellow)](https://stackoverflow.com/users/3687251/Purvesh-)
 
